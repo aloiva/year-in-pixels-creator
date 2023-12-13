@@ -1,0 +1,5 @@
+PORT=5000
+ATLAS_URI=mongodb+srv://<username>:<password>@cluster0.cgd4hwf.mongodb.net/?retryWrites=true&w=majority
+SESSION_SECRET=somesecret
+VERIFICATION_EMAIL=example@email.com
+VERIFICATION_PASSWORD=examplepassword
